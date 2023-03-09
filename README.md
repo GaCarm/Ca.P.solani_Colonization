@@ -1,2 +1,2 @@
 # -Ca.P.-solani-Colonization
-Scripts to reproduce the figures and calculations of the manuscript Carminati et al. 2019
+Scripts to reproduce the statistical analysis and relative figures of the manuscript Carminati et al. 2019
