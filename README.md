@@ -1,5 +1,5 @@
 # -Ca.P.-solani-Colonization
-Scripts to reproduce the statistical analysis and relative figures of the manuscript Carminati et al. 2019
+Scripts to reproduce the statistical analysis and relative figures of the manuscript Carminati et al. 2021 (10.3390/pathogens10070811)
 
 Colonization.xls is the file containing the raw data used in the analysis.
 List of columns in file:
